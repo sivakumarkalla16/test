@@ -1,0 +1,4 @@
+node ('dev2'){
+stage{"build"}{
+echo "job3"
+}
